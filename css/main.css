@@ -1,0 +1,74 @@
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css');
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #555;
+  font-size: 16px;
+}
+.notifications {
+  list-style-type: none;
+}
+.notifications > li {
+  clear: both;
+  padding: 2px;
+}
+.notifications > li > div.notification-icon {
+  float: left;
+  width: 10%;
+  text-align: center;
+}
+.notifications > li > div.notification-content {
+  overflow: hidden;
+}
+.nav-item {
+  background-color: #555;
+}
+.nav-option {
+  background-color: #222;
+  color: whitesmoke;
+  padding: 10px 0 10px 10px;
+  font-size: 20px;
+}
+.nav-content {
+  background-color: #555;
+}
+.nav-option-button {
+  color: whitesmoke;
+  width: 20px;
+  height: 20px;
+  float: right;
+  margin-right: 10px;
+  background-size: 100% 100%;
+  cursor: pointer;
+}
+.table {
+  width: 100%;
+}
+.table > tbody > tr > td,
+.table > thead > tr > th {
+  padding: 7px;
+}
+.game-table > tbody > tr > td {
+  text-align: center;
+}
+.info {
+  color: #00529B;
+  background-color: #BDE5F8;
+}
+.success {
+  color: #4F8A10;
+  background-color: #DFF2BF;
+}
+.warning {
+  color: #9F6000;
+  background-color: #FEEFB3;
+}
+.error {
+  color: #D8000C;
+  background-color: #FFBABA;
+}
+.left {
+  float: left;
+}

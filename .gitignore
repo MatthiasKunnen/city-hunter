@@ -1,0 +1,15 @@
+# IntelliJ
+.idea
+.idea/
+.idea/*
+*.iml
+*.ipr
+*.iws
+
+# OSX
+.DS_Store
+
+# Windows
+Thumbs.db
+
+includes/psl-config-cityhunter.php

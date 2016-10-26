@@ -1,0 +1,11 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,100);
+
+body {
+    background: url(https://dl.dropboxusercontent.com/u/23299152/Wallpapers/wallpaper-22705.jpg) no-repeat center center fixed;
+    background-size: 100% 100%;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    font-family: 'Roboto', sans-serif;
+}
+
