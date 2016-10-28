@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: matthias
- * Date: 2015-05-14
- * Time: 17:24
- */
 ini_set('error_reporting', E_ALL);
 ini_set('display_errors', true);
 require "includes/db_connect_cityhunter.php";

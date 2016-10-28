@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: matthias
- * Date: 2015-09-13
- * Time: 18:54
- */
+
 include "../functions.php";
 
 $comments = array();

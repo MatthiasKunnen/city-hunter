@@ -1,6 +1,4 @@
-/**
- * Created by matthias on 2015-09-27.
- */
+
 $(function () {
     $(".nav-option").click(function () {
         var th = $(this);

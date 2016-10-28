@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: matthias
- * Date: 2015-09-27
- * Time: 19:33
- */
+
 ini_set('error_reporting', E_ALL);
 ini_set('display_errors', true);
 require "classes/notification.php";

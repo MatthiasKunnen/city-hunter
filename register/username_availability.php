@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: matthias
- * Date: 2015-09-13
- * Time: 04:18
- */
+
 $response = array();
 if (isset($_POST["username"])) {
     include "../functions.php";

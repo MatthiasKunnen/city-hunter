@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: matthias
- * Date: 2015-11-09
- * Time: 19:05
- */
 
 namespace CityHunter;
 

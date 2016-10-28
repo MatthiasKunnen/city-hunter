@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: matthias
- * Date: 2015-05-14
- * Time: 18:15
- */
+
 require "functions.php";
 session_start();
 if (!isset($_SESSION["id"])) {
